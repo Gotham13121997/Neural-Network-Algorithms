@@ -1,2 +1,2 @@
 # QUESTION
-![](question1.jpg)
+![](question.jpg)
