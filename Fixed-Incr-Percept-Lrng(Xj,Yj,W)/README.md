@@ -1,1 +1,3 @@
 # FIXED INCREMENT PERCEPTRON LEARNING
+![](algo1.jpg)
+![](algo2.jpg)
